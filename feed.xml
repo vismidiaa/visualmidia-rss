@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<rss
+  version="2.0"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:atom="http://www.w3.org/2005/Atom">
+
+  <channel>
+
+    <title>Portal M1 - Últimas Notícias</title>
+
+    <link>https://www.miseria.com.br/</link>
+
+    <description>Últimas notícias do Portal M1</description>
+
+    <language>pt-br</language>
+
+    <item>
+
+      <title>Teste Visual Mídia - Portal M1</title>
+
+      <link>https://www.miseria.com.br/</link>
+
+      <imagem-destaque>https://www.miseria.com.br/favicon.ico</imagem-destaque>
+
+      <description>&lt;p&gt;Esta é uma notícia de teste para validar a captura do RSS no sistema da Visual Mídia.&lt;/p&gt;</description>
+
+      <pubDate>Fri, 25 Sep 2026 17:00:00 -0300</pubDate>
+
+      <dc:creator>Portal M1</dc:creator>
+
+      <guid isPermaLink="false">visualmidia-teste-001</guid>
+
+      <category domain="https://www.miseria.com.br/">Últimas Notícias</category>
+
+    </item>
+
+  </channel>
+
+</rss>
